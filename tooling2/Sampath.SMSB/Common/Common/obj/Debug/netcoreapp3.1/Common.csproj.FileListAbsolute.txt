@@ -1,0 +1,9 @@
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\sadeep\Desktop\SampathBank-SMS_Banking\src\Sampath.SMSB\Common\Common\obj\Debug\netcoreapp3.1\Common.pdb
