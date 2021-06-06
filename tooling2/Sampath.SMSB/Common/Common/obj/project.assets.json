@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj",
+      "projectUniqueName": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj",
       "projectName": "Sampath.Common",
-      "projectPath": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj",
+      "projectPath": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj",
       "packagesPath": "C:\\Users\\sadeep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Common\\Common\\obj\\",
+      "outputPath": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Common\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

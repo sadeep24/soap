@@ -8,7 +8,7 @@ namespace Sampath.SMSB.Infrastructure.Repositories.Interfeaces
 {
     public interface IInQueRepository
     {
-        Task<IEnumerable<InQue>> GetAllProducts();
+        Task InsertInqRecord(InQue record);
         Task UpbateInqReq(string teliponde, string encmessage);
     }
 }

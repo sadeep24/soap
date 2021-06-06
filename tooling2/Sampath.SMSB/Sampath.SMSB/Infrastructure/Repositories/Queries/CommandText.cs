@@ -6,7 +6,8 @@ namespace Sampath.SMSB.Infrastructure.Repositories.Queries
 {
     class CommandText:ICommandText
     {
-        public string GetSMS => "Select * from SMB_INQUE";
+
+        public string InsertSms => "Insert into SMB_INQUE (Inq_Inrec,Inq_Processed,Inq_Payee_Code,Session_Id,Inq_Card_Seq_No,Inq_Card_Mode,Inq_Segment,Inq_Bkp,Inq_Channel,Inq_Date,Inq_Tel_Number) values (:Inq_Inrec,:Inq_Processed,:Inq_Payee_Code,:Session_Id,:Inq_Card_Seq_No,:Inq_Card_Mode,:Inq_Segment,:Inq_Bkp,:Inq_Channel,sysdate,:Inq_Tel_Number)";
         public string GetProducts => "Select * from Product";
       
         public string InsertOutQue => "Insert into SMB_OUTQUE_MERGED (Ouq_Outrec, Ouq_Processed, Ouq_Payee_Code, Session_Id, Ouq_Priority, Ouq_Card_Seq_No, Ouq_Card_Mode, Delivery_Status, Ouq_Toinbox, Ouq_Msg_Date, Ouq_Cust_Id, Ouq_Seq_No, Ouq_Cust_Name, Ouq_Tran_Remarks, Ouq_Dia_Receipt_No, Ouq_Tel_Number, Ouq_Seq, Ouq_Msg_Sent_Date) values (:Ouq_Outrec, :Ouq_Processed, :Ouq_Payee_Code, :Session_Id, :Ouq_Priority, :Ouq_Card_Seq_No, :Ouq_Card_Mode, :Delivery_Status, :Ouq_Toinbox, :Ouq_Msg_Date, :Ouq_Cust_Id, :Ouq_Seq_No, :Ouq_Cust_Name, :Ouq_Tran_Remarks, :Ouq_Dia_Receipt_No, :Ouq_Tel_Number, :Ouq_Seq, :Ouq_Msg_Sent_Date)";

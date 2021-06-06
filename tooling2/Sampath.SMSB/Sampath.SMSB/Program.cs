@@ -21,7 +21,7 @@ namespace Sampath.SMSB
     class Program
     {
         public static IConfigurationRoot configuration;
-        static void Main(string[] args)
+        static async System.Threading.Tasks.Task Main(string[] args)
         {
             // Create service collection and configure our services
             //var services = ConfigureServices();
@@ -127,7 +127,7 @@ namespace Sampath.SMSB
                 try
                 {
                     var myService = services.GetRequiredService<Startup>();
-                    myService.Run();
+                    await myService.Run();
                     Console.WriteLine("Success");
                 }
                 catch (Exception ex)

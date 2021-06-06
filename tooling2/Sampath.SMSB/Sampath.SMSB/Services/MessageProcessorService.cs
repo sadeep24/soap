@@ -64,7 +64,7 @@ namespace Sampath.SMSB.Services
                 
                 message.Conn_Code = inQueItem.Inq_Payee_Code;
                 message.Session_Id = inQueItem.Session_Id;
-                message.Card_Seq_No = inQueItem.InqCard_SeqNo;
+                message.Card_Seq_No = inQueItem.Inq_Card_Seq_No;
                 message.Card_Mode = inQueItem.Inq_Card_Mode;
                 message.MessageContent = decrypteMessage.Substring(38);
                 message.TxnId = decrypteMessage.Substring(5, 6);

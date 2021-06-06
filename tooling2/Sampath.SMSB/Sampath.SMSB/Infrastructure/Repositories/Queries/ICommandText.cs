@@ -6,7 +6,7 @@ namespace Sampath.SMSB.Infrastructure.Repositories.Queries
 {
     public interface ICommandText
     {
-        string GetSMS { get; }
+        string InsertSms { get; }
         string GetProducts { get; }
        
         string InsertOutQue { get; }

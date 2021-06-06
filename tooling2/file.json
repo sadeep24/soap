@@ -1,0 +1,14 @@
+[
+{ "Inq_Inrec": "1111 IC 01 123456", 
+  "Inq_Processed": "N", 
+  "Inq_Payee_Code": "AIR", 
+  "Session_Id": "", 
+  "Inq_Card_Seq_No": "", 
+  "Inq_Card_Mode": "Normal" ,
+  "Inq_Segment": "" ,
+  "Inq_Bkp": "" ,
+  "Inq_Channel": "MCB" ,
+  "Inq_Date": "" ,
+  "Inq_Tel_Number": "750744772" ,
+},
+]

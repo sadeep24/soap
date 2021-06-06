@@ -21,13 +21,12 @@ namespace Sampath.SMSB.Infrastructure.Repositories
 
         }
 
-        public async Task<IEnumerable<InQue>> GetAllProducts()
+        public async Task InsertInqRecord(InQue record)
         {
 
-            return await WithConnection(async conn =>
+            await WithConnection(async conn =>
             {
-                var query = await conn.QueryAsync<InQue>(_commandText.GetSMS);
-                return query;
+                await conn.ExecuteAsync(_commandText.InsertSms, record);
             });
 
         }

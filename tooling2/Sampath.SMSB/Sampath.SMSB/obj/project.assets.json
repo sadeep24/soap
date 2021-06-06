@@ -4153,11 +4153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Sampath.SMSB\\Sampath.SMSB.tooling2.csproj",
+      "projectUniqueName": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Sampath.SMSB\\Sampath.SMSB.tooling2.csproj",
       "projectName": "Sampath.SMSB.tooling2",
-      "projectPath": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Sampath.SMSB\\Sampath.SMSB.tooling2.csproj",
+      "projectPath": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Sampath.SMSB\\Sampath.SMSB.tooling2.csproj",
       "packagesPath": "C:\\Users\\sadeep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Sampath.SMSB\\obj\\",
+      "outputPath": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Sampath.SMSB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4177,8 +4177,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj": {
-              "projectPath": "C:\\Users\\sadeep\\Desktop\\SampathB\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj"
+            "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj": {
+              "projectPath": "C:\\Users\\sadeep\\Desktop\\soap\\tooling2\\Sampath.SMSB\\Common\\Common\\Sampath.Common.csproj"
             }
           }
         }
